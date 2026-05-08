@@ -1,7 +1,7 @@
 # TODO
 
 - [ ] registration form
-- [ ] accomodation recommendations
+- [ ] accommodation recommendations
 - [ ] funding?
 - [ ] travel recommendations (e.g. airports)
  
