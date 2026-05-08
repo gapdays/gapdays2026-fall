@@ -8,7 +8,7 @@ title: Program
  -->
 
 * __Start:__ Monday 28 September 2026 <!-- , 9:00 UTC -->
-* __Finish:__ Friday 2 Octber 2026
+* __Finish:__ Friday 2 October 2026
 
 ## Schedule
 
