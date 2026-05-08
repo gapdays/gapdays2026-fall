@@ -76,5 +76,5 @@ TBA, please note that these GAP Days will be in-person only.
 - Max would like to release GAP 4.16.0
 - Some people might work on their packages or even create new packages
 - ...
-- for more, see [our HackMD](https://hackmd.io/@gapdays/2026-spring)
+- for more, see [our HackMD](https://hackmd.io/@gapdays/2026-fall)
 -->

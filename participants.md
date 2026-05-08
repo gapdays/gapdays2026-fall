@@ -40,5 +40,5 @@ participants:
 {% endif %}
 <!--
 ## Conference photo
-[<img src="{{ site.baseurl }}/public/gapdays2026-spring_small.jpg" />]({{ site.baseurl }}/public/gapdays2026-spring.jpg)
+[<img src="{{ site.baseurl }}/public/gapdays2026-fall_small.jpg" />]({{ site.baseurl }}/public/gapdays2026-fall.jpg)
 -->
