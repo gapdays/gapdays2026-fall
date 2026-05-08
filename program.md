@@ -12,7 +12,7 @@ title: Program
 
 ## Schedule
 
-TBA 
+TBA, please note that these GAP Days will be in-person only.
 
 <!-- 
 - **Monday**

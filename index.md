@@ -59,8 +59,8 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
 {{site.title}} is organised by
 
-* [Meike ]() (local organizer)
-* [Lukas ]() (local organizer)
+* [Meike Weiß]() (local organizer)
+* [Lukas Schnelle]() (local organizer)
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 * [Max Horn](https://www.quendi.de/en/math)
 
@@ -75,9 +75,8 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 TODO
 This workshop is supported by ***
 -->
-<!--
+
 ## <a name="contact"></a> Contact
 
 If you have questions or suggestions, then please contact the organisers by
 email via [{{site.email}}](mailto:{{site.email}}).
--->
