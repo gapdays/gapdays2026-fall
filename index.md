@@ -59,7 +59,7 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
 {{site.title}} is organised by
 
-* [Meike Weiß]() (local organizer)
+* Meike Weiß (local organizer)
 * [Lukas Schnelle](https://lukasschnelle.de) (local organizer)
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 * [Max Horn](https://www.quendi.de/en/math)
