@@ -70,6 +70,14 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location). 
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
+
+## Timeline
+* <b>15. June 2026:</b> Registration open
+* <b>31. July 2026:</b> Initial funding application closes
+* <b>until 5. August:</b> Announcement of funding decisions
+* <b>1. September:</b> Registration closes
+* <b>until 4. September:</b> Talks are announced
+
 <!-- ## Sponsors
 
 TODO
