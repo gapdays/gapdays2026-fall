@@ -13,6 +13,7 @@ Here are some close options, which we heard good things about (but never stayed 
 - [Aquis grana](https://www.hotel-aquis-grana.de/de/)
 - [Innside](https://www.melia.com/de/hotels/deutschland/aachen/innside-aachen?utm_campaign=google&utm_content=6591&utm_medium=organic&utm_source=directories)
 - [Minx](https://www.minx-hotels.de/)
+- [Ibis budget](https://all.accor.com/hotel/8027/index.de.shtml)
 
 ## Restaurants
 Aachen's Pontviertel offers various places to have lunch and dinner. Here are a few recommendations.
