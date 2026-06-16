@@ -10,6 +10,11 @@ title: Program
 * __Start:__ Monday 28 September 2026 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 2 October 2026
 
+## Central topic
+In these GAPDays we want to focus on improving the visualisation of objects created in GAP. The last few GAPDays this topic came up in many discussions and now the goal is to get stuff done. 
+For that we will build a small demonstrator of how we think it would be good and have the goal that everybody contributes to implementing a similar option in their package. 
+You have no package (yet)? No problem, there are many available which would be happy if you help them. We have a list of candidate packages which will be discussed in the beginning. 
+
 ## Schedule
 
 TBA, please note that these GAP Days will be in-person only.

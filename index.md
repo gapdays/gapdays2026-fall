@@ -70,10 +70,20 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location). 
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
-<!-- ## Sponsors
 
-TODO
-This workshop is supported by -->
+## Timeline
+* <b>15 June 2026:</b> Registration open
+* <b>31 July 2026:</b> Initial funding application closes
+* <b>by 5 August 2026:</b> Announcement of funding decisions
+* <b>1 September 2026:</b> Registration closes
+* <b>by 4 September 2026:</b> Talks are announced
+
+## Sponsors
+
+This workshop is supported by<br>
+<img align="left" width="25%" src="{{ site.baseurl }}/logos/TRR195.png">
+<img align="right" width="45%" src="{{ site.baseurl }}/logos/SFB280.svg">  
+<br><br>
 
 ## <a name="contact"></a> Contact
 
