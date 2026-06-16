@@ -78,10 +78,12 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 * <b>1 September 2026:</b> Registration closes
 * <b>by 4 September 2026:</b> Talks are announced
 
-<!-- ## Sponsors
+## Sponsors
 
-TODO
-This workshop is supported by -->
+This workshop is supported by<br>
+<img align="left" width="25%" src="{{ site.baseurl }}/logos/TRR195.png">
+<img align="right" width="45%" src="{{ site.baseurl }}/logos/SFB280.svg">  
+<br><br>
 
 ## <a name="contact"></a> Contact
 
