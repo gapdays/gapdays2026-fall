@@ -10,10 +10,40 @@ title: Program
 * __Start:__ Monday 28 September 2026 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 2 October 2026
 
-## Central topic
-In these GAPDays we want to focus on improving the visualisation of objects created in GAP. The last few GAPDays this topic came up in many discussions and now the goal is to get stuff done. 
-For that we will build a small demonstrator of how we think it would be good and have the goal that everybody contributes to implementing a similar option in their package. 
-You have no package (yet)? No problem, there are many available which would be happy if you help them. We have a list of candidate packages which will be discussed in the beginning. 
+## Central topic: Visualization
+
+During these GAPDays we will focus on improving the visualisation of objects
+created in GAP. During the last two GAP Days, this topic came up in many
+discussions and now the goal is to get stuff done.
+
+The plan is to create a visualization package that other packages can use,
+instead of rolling their own visualization code again and again.
+
+Moreover, we intend to work with package maintainers on switching their
+package to use the new visualization package. 
+
+Everyone can contribute to this project, by
+- contributing code to the new visualization package,
+- contributing concrete ideas on additional visualization options,
+- working on packages to use the new tools (this can be your own package; or a package you simply use and would like to contribute to).
+
+Regarding the last point, we have a list of candidate packages which will be discussed in the beginning.
+
+## Secondary topic: package distribution
+
+As a secondary topic, some of us will look into improving things regarding the
+GAP package distribution. Details about that will be added here at a later
+point.
+
+If there is interest, we could also have talks that explain how the package
+distribution currently work, and how you can get your own package(s) added to
+it.
+
+## Secondary topic: preparing GAP 4.17.0
+
+As is common during GAP Days, Max will work towards the next "major" GAP release.
+If you'd like to help with that, you can find out how by talking to him at GAP Days.
+
 
 ## Schedule
 
