@@ -10,7 +10,14 @@ title: Program
 * __Start:__ Monday 28 September 2026, in the morning
 * __Finish:__ Friday 2 October 2026, in the afternoon
 
-## Central topic: Visualization
+## Topics
+
+As always, GAP Days are a chance to meet people, form connections, get help
+with your problems, listen to some nice talks, and so on.
+
+But in addition, we plan to focus on a few topics.
+
+### Central topic: Visualization
 
 During these GAPDays we will focus on improving the visualisation of objects
 created in GAP. During the last two GAP Days, this topic came up in many
@@ -29,7 +36,7 @@ Everyone can contribute to this project, by
 
 Regarding the last point, we have a list of candidate packages which will be discussed in the beginning.
 
-## Secondary topic: package distribution
+### Secondary topic: package distribution
 
 As a secondary topic, some of us will look into improving things regarding the
 GAP package distribution. Details about that will be added here at a later
@@ -39,7 +46,7 @@ If there is interest, we could also have talks that explain how the package
 distribution currently work, and how you can get your own package(s) added to
 it.
 
-## Secondary topic: preparing GAP 4.17.0
+### Secondary topic: preparing GAP 4.17.0
 
 As is common during GAP Days, Max will work towards the next "major" GAP release.
 If you'd like to help with that, you can find out how by talking to him at GAP Days.
@@ -47,7 +54,9 @@ If you'd like to help with that, you can find out how by talking to him at GAP D
 
 ## Schedule
 
-TBA, please note that these GAP Days will be in-person only.
+TBA.
+
+Please note that these GAP Days will be in-person only.
 
 <!-- 
 - **Monday**
