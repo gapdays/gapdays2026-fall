@@ -6,6 +6,13 @@ participants:
   - {name: Lukas Schnelle, affiliation: "RWTH Aachen University, Germany"}
   - {name: Max Horn, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
   - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Enya Leroy, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Leonard Sattler, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Alia Bonnet, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Michelle Willamowski, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Torben Wiedemann, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
