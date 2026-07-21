@@ -13,6 +13,8 @@ participants:
   - {name: Michelle Willamowski, affiliation: "RWTH Aachen University, Germany"}
   - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
   - {name: Torben Wiedemann, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
+  - {name: Lars Göttgens, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Reinis Cirpons, affiliation: "Inria, France"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
