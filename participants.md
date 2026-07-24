@@ -15,6 +15,7 @@ participants:
   - {name: Torben Wiedemann, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
   - {name: Lars Göttgens, affiliation: "RWTH Aachen University, Germany"}
   - {name: Reinis Cirpons, affiliation: "Inria, France"}
+  - {name: Pete Gautam, affiliation: "University of Manchester, UK"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
