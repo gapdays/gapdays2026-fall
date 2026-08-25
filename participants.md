@@ -20,6 +20,7 @@ participants:
   - {name: Peter Seidemann, affiliation: "RWTH Aachen University, Germany"}
   - {name: Juan David Ferreira, affiliation: "CIEM - FaMAF - UNC, Argentina"}
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus"}
+  - {name: Linus Künhle, affiliation: "RWTH Aachen University, Germany"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
