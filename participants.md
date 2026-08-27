@@ -21,6 +21,7 @@ participants:
   - {name: Juan David Ferreira, affiliation: "CIEM - FaMAF - UNC, Argentina"}
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus"}
   - {name: Linus Künhle, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Till Eisenbrand, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
