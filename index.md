@@ -72,6 +72,7 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 
 ## Timeline
+
 * <b>15 June 2026:</b> Registration open
 * <b>31 July 2026:</b> Initial funding application closes
 * <b>by 5 August 2026:</b> Announcement of funding decisions
