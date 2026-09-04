@@ -72,6 +72,7 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 
 ## Timeline
+
 * <b>15 June 2026:</b> Registration open
 * <b>31 July 2026:</b> Initial funding application closes
 * <b>by 5 August 2026:</b> Announcement of funding decisions
@@ -80,11 +81,17 @@ For registration use the form on [the registration page]({{ site.baseurl }}/regi
 
 ## Sponsors
 
-This workshop is supported by<br>
+This workshop is supported by
 
-<a href="https://www.computeralgebra.de/sfb/"><img align="left" width="25%" src="{{ site.baseurl }}/logos/TRR195.png" alt="SFB-TRR 195 website"></a>
-<a href="https://www.sfbtrr280.de"><img align="right" width="45%" src="{{ site.baseurl }}/logos/SFB280.svg" alt="SFB-TRR 280 website"></a>
-<br><br>
+<p>
+  <a href="https://www.computeralgebra.de/sfb/">
+    <img width="25%" src="{{ site.baseurl }}/logos/TRR195.png" alt="SFB-TRR 195 website">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.sfbtrr280.de">
+    <img width="45%" src="{{ site.baseurl }}/logos/SFB280.svg" alt="SFB-TRR 280 website">
+  </a>
+</p>
 
 ## <a name="contact"></a> Contact
 
