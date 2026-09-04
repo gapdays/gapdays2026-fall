@@ -22,7 +22,6 @@ participants:
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus, Belgium"}
   - {name: Linus Künhle, affiliation: "RWTH Aachen University, Germany"}
   - {name: Till Eisenbrand, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
-  - {name: Michael Young, affiliation: "University of St Andrews, Scotland"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
