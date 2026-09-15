@@ -83,13 +83,13 @@ Registration closed on 1 September 2026.
 
 This workshop is supported by
 
-<p>
-  <a href="https://www.computeralgebra.de/sfb/">
-    <img width="25%" src="{{ site.baseurl }}/logos/TRR195.png" alt="SFB-TRR 195 website">
+<!-- poole.css makes images block-level; flex puts the logos on one row -->
+<p style="display: flex; align-items: center; gap: 2rem;">
+  <a href="https://www.computeralgebra.de/sfb/" style="width: 25%;">
+    <img style="width: 100%; margin: 0;" src="{{ site.baseurl }}/logos/TRR195.png" alt="SFB-TRR 195 website">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.sfbtrr280.de">
-    <img width="45%" src="{{ site.baseurl }}/logos/SFB280.svg" alt="SFB-TRR 280 website">
+  <a href="https://www.sfbtrr280.de" style="width: 45%;">
+    <img style="width: 100%; margin: 0;" src="{{ site.baseurl }}/logos/SFB280.svg" alt="SFB-TRR 280 website">
   </a>
 </p>
 
