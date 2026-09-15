@@ -12,10 +12,10 @@ title: Program
 
 
 ## Schedule
-We will open with a meeting at Monday morning to coordinate plans for the week,
-and follow a pattern of "Standups" each day at around 9:00, to
+We will open with a meeting on Monday morning to coordinate plans for the week,
+and follow a pattern of "stand-ups" each day at around 9:00, to
 communicate what we plan to work on, and what we have worked on.
-In the mornings, there will be canapes and coffee and snacks will be available throughout the day.
+In the mornings there will be canapés; coffee and snacks will be available throughout the day.
 
 This schedule is subject to change. 
 
@@ -24,7 +24,7 @@ Please note that these GAP Days will be in-person only.
 
 - **Monday**
   - 10:00 Welcome and opening
-  - 10:30 Kick off visualisations
+  - 10:30 Kick-off: visualisation
   - 12:00 *Lunch break*
   - 13:30 Work Session
   - 17:00 End of first day
@@ -32,7 +32,7 @@ Please note that these GAP Days will be in-person only.
 - **Tuesday**
   -  9:00 Breakfast & Stand-up round
   -  9:30 Work session
-  - 11:00 Talk: **Fusion systems on groups of order $2^10$** (Pete Gautam)
+  - 11:00 Talk: **Fusion systems on groups of order $2^{10}$** (Pete Gautam)
   - 11:30 Work session
   - 12:20 Group photo
   - 12:30 *Lunch break*
@@ -72,24 +72,24 @@ with your problems, listen to some nice talks, and so on.
 
 But in addition, we plan to focus on a few topics.
 
-### Central topic: Visualization
+### Central topic: Visualisation
 
 During these GAPDays we will focus on improving the visualisation of objects
 created in GAP. During the last two GAP Days, this topic came up in many
 discussions and now the goal is to get stuff done.
 
-The plan is to create a visualization package that other packages can use,
-instead of rolling their own visualization code again and again.
+The plan is to create a visualisation package that other packages can use,
+instead of rolling their own visualisation code again and again.
 
 Moreover, we intend to work with package maintainers on switching their
-package to use the new visualization package. 
+package to use the new visualisation package. 
 
-Everyone can contribute to this project, by
-- contributing code to the new visualization package,
-- contributing concrete ideas on additional visualization options,
+Everyone can contribute to this project by
+- contributing code to the new visualisation package,
+- contributing concrete ideas on additional visualisation options,
 - working on packages to use the new tools (this can be your own package; or a package you simply use and would like to contribute to).
 
-Regarding the last point, we have a list of candidate packages which will be discussed in the beginning.
+Regarding the last point, we have a list of candidate packages which will be discussed at the beginning.
 
 ### Secondary topic: package creation and submission
 

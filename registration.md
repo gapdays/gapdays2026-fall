@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: open
+registration_state: closed
 ---
 
 {% case page.registration_state %}
@@ -15,7 +15,7 @@ registration_state: open
 <p class="message">Registration is open.</p>
 
 In order to participate in this meeting, please register with us, even if you only
-wish to join for parts of the meeting. If you plan to not attend all five days of the whole week, 
+wish to join for parts of the meeting. If you do not plan to attend all five days,
 simply indicate this in the questions/remarks field of the registration form.
 
 <!--### Talks
@@ -42,7 +42,7 @@ If you would like to apply, please use the corresponding part of the registratio
   your visit and, if applicable, whether and how your visit would be
   beneficial to the GAP system and community.
 
-Initial decisions on whether we can grant support and how much will be made shortly after <b>31st&nbsp;July&nbsp;2026</b>.
+Initial decisions on whether we can grant support and how much will be made shortly after <b>31&nbsp;July&nbsp;2026</b>.
 <!-- The funding deadline has now passed. -->
 <!-- We may be able to support later applications depending on the amount, so please don't hesitate to ask. -->
 Later applications will be decided on a rolling basis if there are funds remaining.

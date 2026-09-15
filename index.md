@@ -68,7 +68,7 @@ The schedule can be found on [the program page]({{ site.baseurl }}/program).
 
 {{site.title}} will take place at {{ site.location }}.
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location). 
-For registration use the form on [the registration page]({{ site.baseurl }}/registration).
+Registration closed on 1 September 2026.
 
 
 ## Timeline
