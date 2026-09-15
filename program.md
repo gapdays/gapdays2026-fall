@@ -10,6 +10,61 @@ title: Program
 * __Start:__ Monday 28 September 2026, in the morning
 * __Finish:__ Friday 2 October 2026, in the afternoon
 
+
+## Schedule
+We will open with a meeting at Monday morning to coordinate plans for the week,
+and follow a pattern of "Standups" each day at around 9:00, to
+communicate what we plan to work on, and what we have worked on.
+In the mornings, there will be canapes and coffee and snacks will be available throughout the day.
+
+This schedule is subject to change. 
+
+Please note that these GAP Days will be in-person only.
+
+
+- **Monday**
+  - 10:00 Welcome and opening
+  - 10:30 Kick off visualisations
+  - 12:00 *Lunch break*
+  - 13:30 Work Session
+  - 17:00 End of first day
+
+- **Tuesday**
+  -  9:00 Breakfast & Stand-up round
+  -  9:30 Work session
+  - 11:00 Talk: **Fusion systems on groups of order 2^10** (Pete Gautam)
+  - 11:30 Work session
+  - 12:20 Group photo
+  - 12:30 *Lunch break*
+  - 14:00 Talk: **Twisted Conjugacy: a computational perspective** (Sam Tertooy)
+  - 14:30 Work session
+  - 17:00 End of the day
+
+- **Wednesday**
+  -  9:00 Breakfast & Stand-up round
+  -  9:30 Work session
+  - 11:00 Talk
+  - 11:30 Work session
+  - 12:30 *Lunch break*
+  - 14:00 Discussion: "Getting help in GAP"
+  - 15:30 Work session
+  - 17:00 End of the day
+
+- **Thursday**
+  -  9:00 Breakfast & Stand-up round
+  -  9:30 Work session
+  - 12:30 *Lunch break*
+  - 14:00 Work session
+  - 17:00 End of the day
+  - Conference dinner
+
+- **Friday**
+  -  9:00 Breakfast & Stand-up round
+  -  9:30 Work session
+  - 12:00 Closing session
+  - 12:30 *Lunch break*
+
+
 ## Topics
 
 As always, GAP Days are a chance to meet people, form connections, get help
@@ -51,70 +106,7 @@ it.
 As is common during GAP Days, Max will work towards the next "major" GAP release.
 If you'd like to help with that, you can find out how by talking to him at GAP Days.
 
-
-## Schedule
-
-TBA.
-
-Please note that these GAP Days will be in-person only.
-
 <!-- 
-- **Monday**
-  - 10:00 Welcome and opening
-  - 10:15 Minicourse: Max Horn, **Introduction to OSCAR, part 1** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part1.pdf))
-  - 11:00 *Short break*
-  - 11:15 Talk: Joseph Daynger Ruiz, **Cartan Matrix Implementation in Semigroups** ([slides]({{ site.baseurl }}/slides/cartan-matrix.pdf))
-  - 12:00 *Lunch break*
-  - 14:00 Talk: Pedro A. García-Sánchez, **New functionalities of NumericalSgps** ([slides]({{ site.baseurl }}/slides/new-functionality-of-numericalsgps.pdf))
-  - 14:45 Talk: Lukas Schnelle, **Visualising GAP objects, current status and the future** ([slides]({{ site.baseurl }}/slides/visualization.pdf))
-  - 15:30 *Coffee break*
-  - 16:00 Talk: Matthias Koeppe, **passagemath-gap, Python interfaces with binary packaging for GAP and its packages** (online)
-  - 17:00 End of first day
-
-- **Tuesday**
-  -  9:15 Stand up and technical discussion
-  -  9:45 Talk: Kaveh Dastouri, **$$\pi$$-theory of finite groups in GAP** (online)
-  - 10:30 *Coffee break* and *Group Photo*
-  - 11:00 Minicourse: Max Horn, **Introduction to OSCAR, part 2** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part2.pdf))
-  - 12:00 *Lunch break*
-  - 14:00 Talk: Rafał Lutowski, **Math databases matter** ([slides]({{ site.baseurl }}/slides/math-databases-matter.pdf))
-  - 14.45 Discussion / work session
-  - 15:30 *Coffee break* and *Interactive Maths Room visit*
-  - 16:00 Discussion / work session
-  - 17:00 Stand up: Results from work sessions
-  - 19:30 Social Dinner, at [Capa Negra II](https://maps.app.goo.gl/e1U9LngmQkE6ziNJA)
-
-- **Wednesday**
-  -  9:15 Stand up and technical discussion
-  -  9:45 Minicourse: Max Horn, **Introduction to OSCAR, part 3** ([slides]({{ site.baseurl }}/slides/OSCAR-porto2026-part3.pdf), [semigroups.jl]({{ site.baseurl }}/slides/semigroups.jl))
-  - 10:30 *Coffee break*
-  - 11:00 Talk: Olexandr Konovalov, **Creating and marking GAP assignments in Jupyter notebooks using GAP grader** (online) 
-  - 12:00 *Lunch break*
-  - 14:00 Talk: Kamil Zabielski, **Primes and anti-associative magmas**
-  - 14.45 Discussion / work session
-  - 15:30 *Coffee break*
-  - 16:00 Stand up: Results from work sessions
-
-- **Thursday**
-  -  9:15 Stand up and technical discussion
-  -  9:45 Talk: Josh Bridges, **Small essential subgroups in fusion systems** ([slides]({{ site.baseurl }}/slides/small-essentials-fusion.pdf))
-  - 10:30 *Coffee break*
-  - 11:00 Talk: Pete Gautam, **Fusion systems in GAP** ([slides]({{ site.baseurl }}/slides/fusion-gap.pdf))
-  - 12:00 *Lunch break*
-  - 14:00 Discussion / work session
-  - 15:30 *Coffee break*
-  - 16:00 Stand up: Results from work sessions
-
-- **Friday**
-  -  9:15 Stand up and technical discussion
-  -  9:45 Talk: Frank Lübeck, **Computing character tables of finite groups**
-  - 10:30 *Coffee break*
-  - 11:00 Talk: Vedran Krčadinacs, **PAG: a GAP package for constructing combinatorial objects with prescribed automorphism groups**
-  - 12:00 *Lunch break*
-  - 14:00 Working session for developers
-  - 15:00 Coffee and closing
-
-
 ## Things people are interested in working on:
 
 - Max would like to release GAP 4.16.0
