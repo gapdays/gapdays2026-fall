@@ -32,7 +32,7 @@ Please note that these GAP Days will be in-person only.
 - **Tuesday**
   -  9:00 Breakfast & Stand-up round
   -  9:30 Work session
-  - 11:00 Talk: **Fusion systems on groups of order 2^10** (Pete Gautam)
+  - 11:00 Talk: **Fusion systems on groups of order $2^10$** (Pete Gautam)
   - 11:30 Work session
   - 12:20 Group photo
   - 12:30 *Lunch break*
