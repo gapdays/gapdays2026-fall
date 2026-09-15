@@ -91,15 +91,42 @@ Everyone can contribute to this project, by
 
 Regarding the last point, we have a list of candidate packages which will be discussed in the beginning.
 
-### Secondary topic: package distribution
+### Secondary topic: package creation and submission
 
-As a secondary topic, some of us will look into improving things regarding the
-GAP package distribution. Details about that will be added here at a later
-point.
+Documentation on creating, maintaining and submitting GAP packages is spread
+over the reference manual, several pages of the GAP website and the example
+package. The [current submission
+process](https://www.gap-system.org/packages/authors/submit/) is not
+transparent and leaves the requirements vague. We want to fix both.
 
-If there is interest, we could also have talks that explain how the package
-distribution currently work, and how you can get your own package(s) added to
-it.
+**Documentation.** Consolidate and improve the documentation for package
+authors. Relevant issues:
+- [gap#5976](https://github.com/gap-system/gap/issues/5976): overhaul and unify the package author documentation
+- [gap#5382](https://github.com/gap-system/gap/issues/5382): merge the package author pages of the GAP website into the reference manual
+- [gap#5203](https://github.com/gap-system/gap/issues/5203): document how to deal with dependencies on other packages
+- [PackageDistro#248](https://github.com/gap-system/PackageDistro/issues/248): document how to add a package to the distribution
+
+**Submission process.** Overhaul it, as agreed at the last GAP Council meeting:
+- Submissions go to [gap@gap-system.org](mailto:gap@gap-system.org) instead of
+  support@gap-system.org. This is an open mailing list: anyone can join, and
+  its archive is public. The documentation must say so clearly.
+- The list will accept moderated posts from non-members, so submitters need not
+  subscribe first.
+- Possibly also accept submissions as GitHub issues or pull requests. These
+  still need an accompanying email to gap@gap-system.org, so that everyone has
+  a fair chance to see them.
+
+**Requirements.** State upfront what a package must provide to be accepted, for
+example:
+- a non-trivial test suite that exercises the functionality of the package;
+- a useful manual;
+- tests that pass both with all packages loaded (`LoadAllPackages()`) and with
+  only the needed packages loaded (no suggested packages), plus instructions
+  for checking this locally.
+
+Package authors, and anyone who has struggled to create or submit a package,
+can help by pointing out where the current documentation or process failed
+them, and by reviewing drafts.
 
 ### Secondary topic: preparing GAP 4.17.0
 
