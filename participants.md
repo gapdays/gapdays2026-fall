@@ -16,13 +16,13 @@ participants:
   - {name: Lars Göttgens, affiliation: "RWTH Aachen University, Germany"}
   - {name: Reinis Cirpons, affiliation: "Inria, France"}
   - {name: Pete Gautam, affiliation: "University of Manchester, UK"}
-  - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
   - {name: Peter Seidemann, affiliation: "RWTH Aachen University, Germany"}
   - {name: Sam Tertooy, affiliation: "KU Leuven, Kulak Kortrijk Campus, Belgium"}
   - {name: Linus Künhle, affiliation: "RWTH Aachen University, Germany"}
   - {name: Till Eisenbrand, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
   - {name: Alice C. Niemeyer, affiliation: "RWTH Aachen University, Germany"}
   - {name: Daan van Berkel, affiliation: "Radboud University, Netherlands"}
+  - {name: Vanishree Krishna Kirekod, affiliation: "RWTH Aachen University, Germany"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
