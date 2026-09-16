@@ -23,6 +23,7 @@ participants:
   - {name: Linus Künhle, affiliation: "RWTH Aachen University, Germany"}
   - {name: Till Eisenbrand, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
   - {name: Alice C. Niemeyer, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Daan van Berkel, affiliation: "Radboud University, Netherlands"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
