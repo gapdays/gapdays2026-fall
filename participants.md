@@ -10,7 +10,6 @@ participants:
   - {name: Frank Lübeck, affiliation: "RWTH Aachen University, Germany"}
   - {name: Leonard Sattler, affiliation: "RWTH Aachen University, Germany"}
   - {name: Alia Bonnet, affiliation: "RWTH Aachen University, Germany"}
-  - {name: Michelle Willamowski, affiliation: "RWTH Aachen University, Germany"}
   - {name: Thomas Breuer, affiliation: "RWTH Aachen University, Germany"}
   - {name: Torben Wiedemann, affiliation: "RPTU University Kaiserslautern-Landau, Germany"}
   - {name: Lars Göttgens, affiliation: "RWTH Aachen University, Germany"}
@@ -23,6 +22,7 @@ participants:
   - {name: Alice C. Niemeyer, affiliation: "RWTH Aachen University, Germany"}
   - {name: Daan van Berkel, affiliation: "Radboud University, Netherlands"}
   - {name: Vanishree Krishna Kirekod, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
