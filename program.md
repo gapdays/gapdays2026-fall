@@ -44,7 +44,8 @@ Please note that these GAP Days will be in-person only.
   -  9:00 Breakfast & Stand-up round
   -  9:30 Work session
   - 11:00 Talk: **NoFoMa - Normal forms of matrices** (Alia Bonnet)
-  - 11:30 Work session
+  - 11:15 Talk: **How to write a GAP parser** (Reinis Cirpons)
+  - 11:40 Work session
   - 12:30 *Lunch break*
   - 14:00 Discussion: "Getting help in GAP"
   - 15:30 Work session
