@@ -59,7 +59,7 @@ Please note that these GAP Days will be in-person only.
   - 12:30 *Lunch break*
   - 14:00 Work session
   - 17:00 End of the day
-  - Conference dinner
+  - 18:30 Conference dinner
 
 - **Friday**
   -  9:00 Breakfast & Stand-up round
