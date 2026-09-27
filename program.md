@@ -143,6 +143,7 @@ them, and by reviewing drafts.
 
 As is common during GAP Days, Max will work towards the next "major" GAP release.
 If you'd like to help with that, you can find out how by talking to him at GAP Days.
+See also [gap#6578](https://github.com/gap-system/gap/issues/6578).
 
 <!-- 
 ## Things people are interested in working on:
