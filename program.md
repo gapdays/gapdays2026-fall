@@ -102,6 +102,14 @@ package. The [current submission
 process](https://www.gap-system.org/packages/authors/submit/) is not
 transparent and leaves the requirements vague. We want to fix both.
 
+**A starting point.** Drafts for much of the below already exist. They are meant
+as a basis for further work and discussion during GAP Days, not as finished
+proposals:
+- [gap#6607](https://github.com/gap-system/gap/pull/6607): point the reference manual at the website for package submission
+- [gap#6606](https://github.com/gap-system/gap/pull/6606): correct and extend the documentation of package tests and loading
+- [GapWWW#419](https://github.com/gap-system/GapWWW/pull/419): route submissions to the open mailing list, and state the requirements on the submit page
+- [PackageDistro#1569](https://github.com/gap-system/PackageDistro/pull/1569): the same for the package distribution
+
 **Documentation.** Consolidate and improve the documentation for package
 authors. Relevant issues:
 - [gap#5976](https://github.com/gap-system/gap/issues/5976): overhaul and unify the package author documentation
