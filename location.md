@@ -6,6 +6,13 @@ title: Location
 These GAP Days will take place in Aachen (Germany) at the [Chair of Algebra and Representation Theory (ART)](https://www.art.rwth-aachen.de/) of RWTH Aachen University, in person only.
 The address is Pontdriesch 10-16. The closest bus stops are `Driescher Gässchen` and `Ponttor`. The train station `Aachen West` is about 10 minutes on foot.
 
+## Rooms
+
+The talks and the main part of work sessions will take place in room *SeMath* on
+the ground floor. In case someone needs a more quiet work space or a subset of
+us want to discuss something not everyone is interested in we have a secondary
+room in the same building.
+
 ## Accommodation
 Please choose a hotel fitting your budget and preferences. There are many options, some even close to the chair.
 Here are some close options, which we have heard good things about (but have not stayed at ourselves):
