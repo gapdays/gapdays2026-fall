@@ -100,40 +100,13 @@ Documentation on creating, maintaining and submitting GAP packages is spread
 over the reference manual, several pages of the GAP website and the example
 package. The [current submission
 process](https://www.gap-system.org/packages/authors/submit/) is not
-transparent and leaves the requirements vague. We want to fix both.
+transparent and leaves the requirements vague. We want to fix both: consolidate
+the documentation, and, as agreed by the GAP Council, route submissions to the
+open mailing list [gap@gap-system.org](mailto:gap@gap-system.org), which anyone
+can subscribe to, with the requirements stated upfront.
 
-**A starting point.** Drafts for much of the below already exist. They are meant
-as a basis for further work and discussion during GAP Days, not as finished
-proposals:
-- [gap#6607](https://github.com/gap-system/gap/pull/6607): point the reference manual at the website for package submission
-- [gap#6606](https://github.com/gap-system/gap/pull/6606): correct and extend the documentation of package tests and loading
-- [GapWWW#419](https://github.com/gap-system/GapWWW/pull/419): route submissions to the open mailing list, and state the requirements on the submit page
-- [PackageDistro#1569](https://github.com/gap-system/PackageDistro/pull/1569): the same for the package distribution
-
-**Documentation.** Consolidate and improve the documentation for package
-authors. Relevant issues:
-- [gap#5976](https://github.com/gap-system/gap/issues/5976): overhaul and unify the package author documentation
-- [gap#5382](https://github.com/gap-system/gap/issues/5382): merge the package author pages of the GAP website into the reference manual
-- [gap#5203](https://github.com/gap-system/gap/issues/5203): document how to deal with dependencies on other packages
-- [PackageDistro#248](https://github.com/gap-system/PackageDistro/issues/248): document how to add a package to the distribution
-
-**Submission process.** Overhaul it, as agreed at the last GAP Council meeting:
-- Submissions go to [gap@gap-system.org](mailto:gap@gap-system.org) instead of
-  support@gap-system.org. This is an open mailing list: anyone can join, and
-  its archive is public. The documentation must say so clearly.
-- The list will accept moderated posts from non-members, so submitters need not
-  subscribe first.
-- Possibly also accept submissions as GitHub issues or pull requests. These
-  still need an accompanying email to gap@gap-system.org, so that everyone has
-  a fair chance to see them.
-
-**Requirements.** State upfront what a package must provide to be accepted, for
-example:
-- a non-trivial test suite that exercises the functionality of the package;
-- a useful manual;
-- tests that pass both with all packages loaded (`LoadAllPackages()`) and with
-  only the needed packages loaded (no suggested packages), plus instructions
-  for checking this locally.
+First drafts exist as a basis for further work and discussion; see
+[gap#5976](https://github.com/gap-system/gap/issues/5976) for the details.
 
 Package authors, and anyone who has struggled to create or submit a package,
 can help by pointing out where the current documentation or process failed
