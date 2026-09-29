@@ -37,7 +37,7 @@ Please note that these GAP Days will be in-person only.
   - 12:20 Group photo
   - 12:30 *Lunch break*
   - 14:00 Talk: **Twisted Conjugacy: a computational perspective** (Sam Tertooy)
-  - 14:30 Work session
+  - 14:30 Work session / discussion: "Package creation and submission"
   - 17:00 End of the day
 
 - **Wednesday**
