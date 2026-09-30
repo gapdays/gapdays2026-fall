@@ -60,7 +60,7 @@ Please note that these GAP Days will be in-person only.
   - 12:30 *Lunch break*
   - 14:00 Work session
   - 17:00 End of the day
-  - 18:30 Conference dinner
+  - 18:30 Conference dinner at [La Finestra](https://restaurant-la-finestra-aachen.eatbu.com/?lang=en)
 
 - **Friday**
   -  9:00 Breakfast & Stand-up round
