@@ -47,7 +47,7 @@ Please note that these GAP Days will be in-person only.
   - 11:15 Talk: **Finding preserved forms of matrix groups with cyclic matrices** (Peter Seidemann)
   - 11:30 Work session
   - 12:30 *Lunch break*
-  - 14:00 Discussion: "Getting help in GAP"
+  - 14:00 Discussion: "Getting help on GAP: where we are at, where we could go"
   - 15:30 Discussion: "Package extensions"
   - 16:30 Work session
   - 17:00 End of the day
