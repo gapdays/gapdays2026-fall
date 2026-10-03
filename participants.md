@@ -23,6 +23,7 @@ participants:
   - {name: Daan van Berkel, affiliation: "Radboud University, Netherlands"}
   - {name: Vanishree Krishna Kirekod, affiliation: "RWTH Aachen University, Germany"}
   - {name: Mike Ogiugo, affiliation: "Yaba College of Technology, Lagos, Nigeria"}
+  - {name: Giles Gardam, affiliation: "University of Bonn, Germany"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
